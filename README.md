@@ -108,3 +108,5 @@ Back in the actions tab of our GitHub repository we should see another build was
 - [Docker Hub Dotnet SDK](https://hub.docker.com/_/microsoft-dotnet-sdk)
 - [Docker Hub Dotnet ASP.NET](https://hub.docker.com/_/microsoft-dotnet-aspnet)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [Jenkins](https://www.jenkins.io/)
+- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/pipelines/)
